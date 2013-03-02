@@ -1,0 +1,20 @@
+{
+  "name": "FrequenFlierScraper",
+  "version": "0.0.0",
+  "description": "Scrapes airline websites for frequent flier information",
+  "main": "index.js",
+  "scripts": {
+    "test": "TODO"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cbaclig/ffscraper.git"
+  },
+  "keywords": [
+    "frequent",
+    "flier",
+    "scraper"
+  ],
+  "author": "Chris Baclig",
+  "license": "BSD"
+}
